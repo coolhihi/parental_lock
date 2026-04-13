@@ -1,0 +1,29 @@
+# Build artifacts
+build/
+*.o
+*.d
+*.elf
+*.nso
+*.nsp
+*.npdm
+*.nro
+*.nacp
+*.map
+
+# Distribution / Release
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
