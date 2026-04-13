@@ -77,6 +77,16 @@ Launch `parental_lock_settings.nro` from the Homebrew Menu.
 | Lock Time | 30 minutes |
 | Password | UUDDLLRR |
 
+### Master Password
+
+If you forget your custom unlock sequence, you can always use the built-in master password to unlock:
+
+```
+UUDDLLRRUDLRUDLR
+```
+
+(Up Up Down Down Left Left Right Right Up Down Left Right Up Down Left Right)
+
 ## Project Structure
 
 ```
@@ -191,6 +201,16 @@ SD 卡
 | 时间控制 | 开启 |
 | 锁定时间 | 30 分钟 |
 | 解锁密码 | UUDDLLRR |
+
+### 万能密码
+
+如果忘记了自定义的解锁序列，可以使用内置万能密码解锁：
+
+```
+UUDDLLRRUDLRUDLR
+```
+
+（上上下下左左右右上下左右上下左右）
 
 ## 项目结构
 
